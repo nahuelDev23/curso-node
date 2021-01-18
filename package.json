@@ -19,4 +19,7 @@
     },
     "homepage": "https://github.com/nahuelDev23/curso-node#readme",
     "dependencies": {
-        "express": "^
+        "express": "^4.17.1",
+        "hbs": "^4.1.1"
+    }
+}
